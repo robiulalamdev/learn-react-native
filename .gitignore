@@ -1,3 +1,5 @@
 navigation/navigate-app/node_modules
 navigation/drawer-navigate-app/node_modules
 navigation/tab-navigate-app/node_modules
+node_modules
+.expo
