@@ -3,3 +3,6 @@ navigation/drawer-navigate-app/node_modules
 navigation/tab-navigate-app/node_modules
 node_modules
 .expo
+.env
+.env.production
+.env.local
