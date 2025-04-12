@@ -18,7 +18,7 @@ const HomeScreen = ({ navigation }) => {
           marginTop: 20,
         }}
       >
-        Home Page
+        Home
       </Text>
 
       <View
